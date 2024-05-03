@@ -61,3 +61,31 @@ border-radius: 50%;
   width: 100px;
   transition: transform 0.3s ease;
   }
+  .navbar-brand-text {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .nav-link-text {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+.brand-logo {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.nav-links {
+  display: flex;
+  align-items: center; /* Aligns items vertically center */
+}
+
+.nav-item {
+  font-size: 18px;
+  font-weight: bold;
+  margin-left: 15px; /* Adjust as needed for spacing between items */
+  color: #fff; /* Change the color if needed */
+  text-decoration: none; /* Remove underline */
+}
+  

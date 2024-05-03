@@ -23,15 +23,16 @@ position: relative;
 top:150px;
 }
 .advocateloginbtn{
-    margin-top:25px;
+    margin-top:45px;
     width:200px;
     color:black;
     font-size: 25px;
     }
 
     .advocatelogindiv3{
-        position: absolute;
 top:190px;
+margin-top:15px;
+
 margin-left: 3px;
 font-size: 20px;
     }
